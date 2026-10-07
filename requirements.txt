@@ -1,0 +1,2 @@
+# NAMI Maps v0.1
+# Runtime dependencies: Python standard library only.
